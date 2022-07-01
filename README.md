@@ -1,4 +1,11 @@
-### Hi there 👋
+## Categories
+- 🌎 GIS
+- 🐍 Python
+- 💻 Javascript
+
+
+
+
 
 <!--
 **lotavio99/lotavio99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
