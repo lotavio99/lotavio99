@@ -18,7 +18,7 @@ Faça parte da minha rede no LinkedIn
 https://www.linkedin.com/in/luiz-otavio-souza-santos-0412b8151/
 
 ## Categories
-- 🌎 GIS
+- 🌎 GIS (ArcGIS / QGIS)
 - 🐍 Python
 - 💻 Javascript / Typescript
 
