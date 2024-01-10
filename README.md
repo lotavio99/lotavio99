@@ -14,6 +14,9 @@ Atualmente, faço parte da equipe da Imagem Geosistemas, uma empresa líder no s
 
 Mantenho-me constantemente atualizado com as tecnologias mais recentes e estou sempre em busca de desafios emocionantes na área de Geotecnologias. Estou empenhado em aplicar tecnologias de ponta para resolver problemas e contribuir para o sucesso da Imagem Geosistemas. Com minha experiência e habilidades em diversas áreas da programação, estou pronto para colaborar e impulsionar a eficiência e tomada de decisões estratégicas nos setores de agricultura, meio ambiente e conservação, construção civil, mineração, óleo e gas, telecomunicação, produção e transmissão de energia elétrica.
 
+Faça parte da minha rede no LinkedIn
+https://www.linkedin.com/in/luiz-otavio-souza-santos-0412b8151/
+
 ## Categories
 - 🌎 GIS
 - 🐍 Python
